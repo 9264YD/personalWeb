@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personalWeb/static/css/main.ae6559bf.css",
+    "main.js": "/personalWeb/static/js/main.f2beee0d.js",
+    "static/js/453.b05d8aa5.chunk.js": "/personalWeb/static/js/453.b05d8aa5.chunk.js",
+    "static/media/photo.jpg": "/personalWeb/static/media/photo.45f3047a4bcfa05410fc.jpg",
+    "static/media/project1.png": "/personalWeb/static/media/project1.acf5eccff80e94ec4561.png",
+    "static/media/bg-light.png": "/personalWeb/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/personalWeb/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/project3.png": "/personalWeb/static/media/project3.151455e3eb325ad27a43.png",
+    "static/media/project4.png": "/personalWeb/static/media/project4.013a47640f66261fa47d.png",
+    "static/media/project2.png": "/personalWeb/static/media/project2.3a7eb1e8307035d2d168.png",
+    "index.html": "/personalWeb/index.html",
+    "main.ae6559bf.css.map": "/personalWeb/static/css/main.ae6559bf.css.map",
+    "main.f2beee0d.js.map": "/personalWeb/static/js/main.f2beee0d.js.map",
+    "453.b05d8aa5.chunk.js.map": "/personalWeb/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae6559bf.css",
+    "static/js/main.f2beee0d.js"
+  ]
+}
